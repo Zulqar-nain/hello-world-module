@@ -1,0 +1,6 @@
+{
+  "title": "hello-world",
+  "description": "This module is used to return a hello world message",
+  "root": "/backend/modules",
+  "schema": {}
+}
